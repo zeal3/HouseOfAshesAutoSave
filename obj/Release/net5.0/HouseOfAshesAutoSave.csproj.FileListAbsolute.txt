@@ -1,0 +1,15 @@
+D:\Projects\HouseOfAshesAutoSave\bin\Release\net5.0\HouseOfAshesAutoSave.exe
+D:\Projects\HouseOfAshesAutoSave\bin\Release\net5.0\HouseOfAshesAutoSave.deps.json
+D:\Projects\HouseOfAshesAutoSave\bin\Release\net5.0\HouseOfAshesAutoSave.runtimeconfig.json
+D:\Projects\HouseOfAshesAutoSave\bin\Release\net5.0\HouseOfAshesAutoSave.runtimeconfig.dev.json
+D:\Projects\HouseOfAshesAutoSave\bin\Release\net5.0\HouseOfAshesAutoSave.dll
+D:\Projects\HouseOfAshesAutoSave\bin\Release\net5.0\ref\HouseOfAshesAutoSave.dll
+D:\Projects\HouseOfAshesAutoSave\bin\Release\net5.0\HouseOfAshesAutoSave.pdb
+D:\Projects\HouseOfAshesAutoSave\obj\Release\net5.0\HouseOfAshesAutoSave.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\HouseOfAshesAutoSave\obj\Release\net5.0\HouseOfAshesAutoSave.AssemblyInfoInputs.cache
+D:\Projects\HouseOfAshesAutoSave\obj\Release\net5.0\HouseOfAshesAutoSave.AssemblyInfo.cs
+D:\Projects\HouseOfAshesAutoSave\obj\Release\net5.0\HouseOfAshesAutoSave.csproj.CoreCompileInputs.cache
+D:\Projects\HouseOfAshesAutoSave\obj\Release\net5.0\HouseOfAshesAutoSave.dll
+D:\Projects\HouseOfAshesAutoSave\obj\Release\net5.0\ref\HouseOfAshesAutoSave.dll
+D:\Projects\HouseOfAshesAutoSave\obj\Release\net5.0\HouseOfAshesAutoSave.pdb
+D:\Projects\HouseOfAshesAutoSave\obj\Release\net5.0\HouseOfAshesAutoSave.genruntimeconfig.cache
